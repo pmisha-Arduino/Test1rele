@@ -1,0 +1,6 @@
+{
+  "name": "Тест: Електромагнітні Реле",
+  "description": "Інтерактивний тест на 10 запитань з теми 'Реле' для студентів та лекторів. Охоплює принцип дії, типи та кількість контактів, призначення та застосування.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
